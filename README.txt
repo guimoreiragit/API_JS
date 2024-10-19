@@ -5,3 +5,6 @@ para tradução final do texto e sinopse.
 
 link da fork utilizada
 https://github.com/LibreTranslate/LibreTranslate
+
+link do Site utilizado para base de pesquisas
+https://www.omdbapi.com
